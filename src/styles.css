@@ -1,5 +1,9 @@
+html {
+  scroll-behavior: smooth;
+}
 body {
   font-family: "Poppins", sans-serif;
+  background: #272044;
 }
 .container {
   max-width: 1400px;
